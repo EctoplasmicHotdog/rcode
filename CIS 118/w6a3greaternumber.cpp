@@ -4,7 +4,7 @@
 using namespace std; //Command to avoid typing std:: in front of cout and endl commands
 int main () { //All programs start at 'main' - simple version of main, other possible
 	cout << "Jason Reiterman - 9/20/19" << endl;
-	int firstNum = 0, second Num = 0; //Declare and initialize variables
+	int firstNum = 0, secondNum = 0; //Declare and initialize variables
 	cout << "Enter first Number (example 69): " << endl; //Print prompt for first number
 	cin >> firstNum; //stop and wait for user to enter first number
 	cout << "Enter second Number (example 42): " <<endl; //Print prompt for second number
