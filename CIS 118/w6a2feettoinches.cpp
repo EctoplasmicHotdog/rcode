@@ -9,7 +9,7 @@ int height = 0, feet = 0, inches = 0; // Declare and initialize variables
    cin >> height; //Pause and wait for user to Input height in inches
    feet = height / 12; //Calculate Feet  
    inches = height % 12; //Calculate remaining inches 
-   cout << "My Height is " << feet << " feet and " << inches <<  "Inches " << endl << endl; // Print to monitor message and results of calculations 
+   cout << "My height is " << feet << " feet and " << inches <<  " Inches " << endl << endl; // Print to monitor message and results of calculations 
    system ("Pause"); //Command needed to see output on PC
    return 0; //End program 
 } 
