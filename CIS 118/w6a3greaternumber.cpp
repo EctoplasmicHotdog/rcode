@@ -15,6 +15,6 @@ int main () { //All programs start at 'main' - simple version of main, other pos
 	else {
 		cout << "First number is greater than or equal to second number " << endl; //Print to monitor message when first num greater or equal to second num
 	}
-	system ("Pause"); //Command needed to see output on PC
+//	system ("Pause"); //Command needed to see output on PC
 	return 0; //End program
 }
